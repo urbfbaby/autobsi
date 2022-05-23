@@ -1,34 +1,40 @@
 {
   "timetable": {
     "monday": {
-      "name": "Literature",
-      "time": ["12:30", "15:00"],
-      "link": "http://elearning.bsi.ac.id/absen-mhs/{your-literature-class-hash}"
+      "name": "WEB PROGRAMMING I",
+      "time": ["10:50", "14:10"],
+      "link": "http://elearning.bsi.ac.id/absen-mhs/eyJpdiI6IjhQc0lhN000dFFwdlQyTlVabzM0ZXc9PSIsInZhbHVlIjoiaUd3SmRFSjR2TGMzQjViZVYwU1VXT1ArM2FOMmpkOHBicFJBdEtrYk5ZNDFrVkxQcEllZUlyMzNzTWl0UG5nWGw4ZVB6VVVTQk1WNjExK2M0aHFxenZFbExIaFRsUGsvd29oOFVOVlgzTHM9IiwibWFjIjoiMGI2NzY0NzE0ZWNlYzVhNTgxMGJhMzFiNTAwZDdiNWNiMjkzMTBhYWQwYTNiZjlhOTY5ZDllNDdhMWU4ZjVmYyJ9"
     },
     "tuesday": {
-      "name": "English",
-      "time": ["07:00", "09:00"],
-      "link": "http://elearning.bsi.ac.id/absen-mhs/{your-english-class-hash}"
+      "name": "STRUKTUR DATA",
+      "time": ["11:40", "14:10"],
+      "link": "http://elearning.bsi.ac.id/absen-mhs/eyJpdiI6IndlWlFUaURjZEpKbWFpK3AxdVZHT3c9PSIsInZhbHVlIjoiVEM0bTR2d0YyUnZxVkZOTllTSC81cXJUYTJjdHk4dHQ5L0txeXdNVWIybUd1R1NRMTZ5TFJQR21ydEZuM1VyR1YzTWxaLzhPRGcxUWVWVTNKbXg5UVE9PSIsIm1hYyI6ImZiN2E1ZjBmOTI5Yjk4NDBlODY3NzFhMTE5NzI3YmMwZjU0OWU4NGE3Y2Q3M2QzNWYwMDE3ZDZiMTNlYjc4MGQifQ=="
     },
     "wednesday": {
-      "name": "Magic",
-      "time": ["09:30", "11:00"],
-      "link": "http://elearning.bsi.ac.id/absen-mhs/{your-magic-class-hash}"
-    },
-    "thursday": {
-      "name": ["Maid", "Dance"],
+      "name": ["SISTEM BASIS DATA", "BAHASA INGGRIS II"]
       "time": [
-        ["15:00", "18:00"],
-        ["19:00", "21:00"]
+       ["10:00", "12:30"],
+       ["15:00", "16:40"]
       ],
       "link": [
-        "http://elearning.bsi.ac.id/absen-mhs/{your-maid-class-hash}",
-        "http://elearning.bsi.ac.id/absen-mhs/{your-dance-class-hash}"
-      ]
+       "http://elearning.bsi.ac.id/absen-mhs/eyJpdiI6ImJVUHcvZUpJaEo5ejhEckx5OEdtaGc9PSIsInZhbHVlIjoiZjQ1ZnFhM2JQTUNHendYbzBBbUNjeUdZM29ML0REV2JIUVlxQWxQM0o0MnZzNUtqMllRZkFzeHk1UlN1QlgybjRhU1V3NGFvU1ZzZ2I1VFJzNEtFZGc9PSIsIm1hYyI6ImQ2ZWMxNDMxMzVhMzUyOTgwMTU2ZWJkZGUwNjE2YTI0NjhmZWUzNTdiMWUxZDk3OTQ1NDkxZGY2YmJlZTk4Y2UifQ==",
+       "http://elearning.bsi.ac.id/absen-mhs/eyJpdiI6IjUwbUVaS25tNC9JSzJOVkFVOHNXNUE9PSIsInZhbHVlIjoiRHNGeWo5SHd0bFRGZWZMTTgwWmsycFA1TVhuOGFPY3ZFWHhIalFLekpVODFHZFhZdjNMa2dhUWtwWkxTZWhFVmlLYkJzRGpoTnBXanJueXRFa1dScHc9PSIsIm1hYyI6IjYyZWU5OWZlNjI0YjQyNmY0YzViOTNiNDM3ODkzMDBiNWMwNmEzYmVjNWRhZjIyNmZmMDlmM2UzNmE4N2QzZGMifQ=="
+      ],
+    },
+    "thursday": {
+      "name": "APLIKASI BASIS DATA",
+      "time": ["10:00", "12:30"],
+      "link": "http://elearning.bsi.ac.id/absen-mhs/eyJpdiI6IktHa2RHTm8zL0VrOW1zSFQxZ2dBdkE9PSIsInZhbHVlIjoiUmZkUDlQcXNocGd4M3hrYkdENktCNDFUemJUaEY3ZHpSWk1JcnhwQzJNai9jNlBkbTdHamY3am5DV04zYXlVWUpMUDIxa2VTZkczbTF4emZETFVTUFBody9EMTdkNVBMMUZMcEJQVzNJd0U9IiwibWFjIjoiNzUyOTc0NmRlYWU5ZDJjN2FkMDhkYTExMjI2NGMxNjJlZjQ0M2NjNjI4OGZhZGU5OGI1YjQ5NmUwODllMjgyYyJ9",
+      
+    },
+    "friday": {
+      "name": "METODE PERANCANGAN PROGRAM",
+      "time": ["14:10", "16:40"],
+      "link": "http://elearning.bsi.ac.id/absen-mhs/eyJpdiI6IlNsNms5dzdhODhPTmpoYVNIRTBjQ2c9PSIsInZhbHVlIjoiTUIyNTducmltYXh1bk84N3poZGRDUm9Zd0xVOC8vSEwzcUJCSVVkcndoQVFWYUkyL0s0WUJMakhqZld5L3lNdzQvcXVtRDVJRXREcEp6Nk03cmlEeEdKYmY1bTdQQlVYS3lhZ1pNd3FTcUU9IiwibWFjIjoiMzY0MmU4MmUwMzEwMmVlOTBiNTNhNzY3MmM4ZjAzMjIyZjYzZWUzOTYwZDViNDY3MGNiMWMzMTZiMDFlNWQ3ZiJ9",
     }
   },
-  "username": "nim",
-  "password": "mybest password",
+  "username": "12211280",
+  "password": "mhs-2022",
   "email": "email (optional)",
   "api_key": "email api_key (optional)",
   "target_email": "target email (optional)",
